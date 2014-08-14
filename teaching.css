@@ -1,0 +1,18 @@
+/*teaching.css for my new media classes at LAGCC*/
+
+body{
+font-family: "Lucida Console", "Lucida Sans Typewriter", Monaco, "Bitstream Vera Sans Mono", monospace;
+}
+
+a{
+	color:red;
+	text-decoration: none;
+}
+
+a:hover{
+	color:blue;
+}
+
+ul li{
+	list-style: none;
+}
